@@ -528,7 +528,7 @@ h2 {
   padding-top: 8em;
   padding-bottom: 8em;
   text-align: center; }
-  @media (min-width: 725px) {
+  @media (min-width: 0px) { /* change from 725px to 0px*/
     .hero {
       text-align: left;
       padding-bottom: 0;
